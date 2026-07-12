@@ -1,161 +1,128 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:1E1B4B,100:050816&height=250&section=header&text=Hello%20World!&fontSize=50&fontColor=F8FAFC&fontAlignY=32&animation=fadeIn&desc=I'm%20Mahalakshmi%20D&descAlignY=54&descSize=22&descColor=00E5FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1224,50:2DD4BF,100:F59E0B&height=200&section=header&text=&fontSize=0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2700&pause=700&color=8B5CF6&center=true&vCenter=true&width=650&lines=Data+Analyst;Frontend+Developer;Software+Developer;Problem+Solver"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=32&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Mahalakshmi+D;Aspiring+Data+Analyst;Frontend+Developer;Turning+Data+Into+Insights" alt="Typing SVG" />
 
-<a href="https://mahalakshmi-dev06.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logoColor=black"/></a>
-<a href="https://www.linkedin.com/in/mahalakshmi-dhanraj-428174293"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mahadhana2006@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/mahalakshmi-dev06"><img src="https://img.shields.io/badge/GitHub-22C55E?style=for-the-badge&logo=github&logoColor=black"/></a>
-
-</div>
-
-<br/>
-
-<!-- INTRO -->
-<div align="center">
-
-<img src="https://api.dicebear.com/7.x/initials/svg?seed=Mahalakshmi&backgroundColor=00E5FF,8B5CF6,EC4899&backgroundType=gradientLinear" width="110" style="border-radius:50%"/>
-
-**Final-year B.E. Electrical & Electronics Engineering** · CGPA **8.33** · Knowledge Institute of Technology
-Open to **Data Analytics & Software Internships** · Salem, Tamil Nadu
+<p>
+  <img src="https://img.shields.io/badge/📍-Salem,_Tamil_Nadu-2DD4BF?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓-B.E._EEE,_2023--2027-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/CGPA-8.33-9333EA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Internships-22C55E?style=flat-square" />
+</p>
 
 </div>
 
 <br/>
 
-<table width="100%" border="0" cellspacing="10">
+## &nbsp;🧭&nbsp; About Me
+
+<table>
 <tr>
-<td align="center" width="25%">🔭<br/><sub><b>Focus</b><br/>Data Analytics</sub></td>
-<td align="center" width="25%">🌱<br/><sub><b>Learning</b><br/>SQL · Power BI</sub></td>
-<td align="center" width="25%">🟢<br/><sub><b>Status</b><br/>Open to Work</sub></td>
-<td align="center" width="25%">☕<br/><sub><b>Fuel</b><br/>Coffee + Music</sub></td>
-</tr>
-</table>
+<td width="65%" valign="top">
 
----
+I'm a final-year **Electrical & Electronics Engineering** student at Knowledge Institute of Technology, with a growing focus on **Data Analytics** and **Frontend Development**. I enjoy working where data meets design — building interfaces that make information easy to understand and act on.
 
-<div align="center">
+&nbsp;
 
-### Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql,react,js,nodejs,mongodb,git,vscode&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Power_BI-050816?style=flat-square&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Pandas-050816?style=flat-square&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/NumPy-050816?style=flat-square&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Excel-050816?style=flat-square&logoColor=22C55E"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Projects
-
-</div>
-
-<table width="100%" border="0" cellspacing="12">
-<tr>
-<td width="50%" valign="top">
-
-**🤟 Sign Echo**
-Real-time sign language recognition → text/audio, ~90% accuracy.
-`Python` `OpenCV` `MediaPipe`
-[GitHub →](https://github.com/mahalakshmi-dev06)
+🔭&nbsp; Currently building an **e-commerce customer insights** dashboard (RFM analysis)
+🌱&nbsp; Learning advanced **SQL** and **Power BI** data modeling
+💬&nbsp; Ask me about **Python, sign-language recognition, or React**
+📫&nbsp; Reach me at **mahadhana2006@gmail.com**
 
 </td>
-<td width="50%" valign="top">
+<td width="35%" align="center">
 
-**⌚ Blood Blockage Detection**
-Wearable IoT device with real-time buzzer + SMS alerts.
-`Arduino Nano` `Pulse Sensor`
-[GitHub →](https://github.com/mahalakshmi-dev06)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**💊 Smart Medicine Reminder**
-Full-stack MERN app, Tamil + English, QR prescriptions.
-`React` `Node.js` `MongoDB`
-[GitHub →](https://github.com/mahalakshmi-dev06)
-
-</td>
-<td width="50%" valign="top">
-
-**📊 E-commerce Customer Insights**
-Sales & customer behavior analysis.
-`Python` `SQL` `Pandas`
-[GitHub →](https://github.com/mahalakshmi-dev06)
+<img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" width="180"/>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<br/>
 
-[View all projects on my portfolio →](https://mahalakshmi-dev06.github.io/portfolio/)
-
-</div>
-
----
+## &nbsp;🛠️&nbsp; Tech Stack
 
 <div align="center">
 
-### Journey
-
-</div>
-
-`2023–2027` B.E. Electrical & Electronics Engineering, KIOT
-`2025` 🥇 First Place — Paper Presentation, Piezoelectric Effect
-`2025` 🏅 Top Performer — Obstacle Avoiding Robot, IDEA Lab
-`2025` 🥉 Third Place — 24-Hr Women's Hackathon
-`2025` 📜 NPTEL Certification — Industry 4.0 & Industrial IoT
-
----
-
-<div align="center">
-
-### GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=mahalakshmi-dev06&show_icons=true&theme=radical&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=EC4899&text_color=F8FAFC" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi-dev06&theme=radical&hide_border=true&background=050816&stroke=8B5CF6&ring=00E5FF&fire=EC4899" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahalakshmi-dev06&bg_color=050816&color=00E5FF&line=EC4899&point=ffffff&hide_border=true" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mahalakshmi-dev06&theme=radical&no-frame=true&margin-w=8&column=4"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Contribution Snake 🐍
-
-<!-- snake animation appears here after workflow setup -->
-<img src="https://raw.githubusercontent.com/mahalakshmi-dev06/mahalakshmi-dev06/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-*"Turning data into insights, and ideas into interfaces."*
-
-<img src="https://komarev.com/ghpvc/?username=mahalakshmi-dev06&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+<img src="https://skillicons.dev/icons?i=py,java,mysql,react,nodejs,mongodb,git,github,vscode,html,css,js&theme=dark" />
 
 <br/><br/>
 
-**Thanks for visiting 💜**
-
-[⬆ Back to Top](#)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:1E1B4B,100:050816&height=110&section=footer"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
 </div>
+
+<br/>
+
+## &nbsp;📌&nbsp; Featured Projects
+
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="left">Stack</th>
+<th align="left">Highlight</th>
+</tr>
+<tr>
+<td>🤟 <b>Sign Echo</b></td>
+<td>Python · OpenCV · MediaPipe</td>
+<td>Real-time sign language → text/audio, ~90% accuracy</td>
+</tr>
+<tr>
+<td>⌚ <b>Wearable Blood Blockage Detection</b></td>
+<td>Arduino Nano · Pulse Sensor</td>
+<td>Early anomaly detection with SMS + buzzer alerts</td>
+</tr>
+<tr>
+<td>💊 <b>Smart Medicine Reminder & Health Tracker</b></td>
+<td>React · Node.js · Express · MongoDB</td>
+<td>Bilingual (Tamil/English) full-stack health app</td>
+</tr>
+<tr>
+<td>📊 <b>E-commerce Customer Insights</b></td>
+<td>Python · SQL · Power BI</td>
+<td>RFM analysis for customer segmentation</td>
+</tr>
+</table>
+
+<br/>
+
+## &nbsp;🏆&nbsp; Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🥇_First_Place-Paper_Presentation,_Piezoelectric_Effect-F59E0B?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/🏅_Top_Performer-Obstacle_Avoiding_Robot,_IDEA_Lab-2DD4BF?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/🥉_Third_Place-24--Hr_Women's_Hackathon-9333EA?style=flat-square" />
+
+</div>
+
+<br/>
+
+## &nbsp;📊&nbsp; GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahalakshmi-dev06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi-dev06&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+<br/>
+
+## &nbsp;🔗&nbsp; Connect With Me
+
+<div align="center">
+
+<a href="https://mahalakshmi-dev06.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mahalakshmi-dhanraj-428174293" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mahadhana2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/mahalakshmi-dev06" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:2DD4BF&height=120&section=footer" width="100%"/>
