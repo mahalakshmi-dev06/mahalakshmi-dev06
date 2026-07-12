@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://mahalakshmi-dev06.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://mahalakshmi-dev06.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mahalakshmi-dhanraj-428174293"><img src="https://img.shields.io/badge/LinkedIn-5B8DEF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mahadhana2006@gmail.com"><img src="https://img.shields.io/badge/Email-FF5EA8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/mahalakshmi-dev06"><img src="https://img.shields.io/badge/GitHub-00C2FF?style=for-the-badge&logo=github&logoColor=black"/></a>
@@ -90,7 +90,7 @@ Wearable device that monitors body temperature and heart rate to catch early sig
 
 <table>
 <tr>
-<td width="8" style="background:#9333EA;"></td>
+<td width="8" style="background:#1D4ED8;"></td>
 <td>
 
 **💊 Smart Medicine Reminder & Health Tracker**
@@ -160,7 +160,7 @@ Analyzed e-commerce sales and customer behavior data with Python and SQL, visual
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=mahalakshmi-dev06&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=FF5EA8&text_color=E2E8F0" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi-dev06&theme=react&hide_border=true&background=0D1117&stroke=7F5AF0&ring=00C2FF&fire=FF5EA8&currStreakLabel=00E5A8" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi-dev06&theme=react&hide_border=true&background=0D1117&stroke=2563EB&ring=00C2FF&fire=FF5EA8&currStreakLabel=00E5A8" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahalakshmi-dev06&bg_color=0D1117&color=00C2FF&line=FF5EA8&point=ffffff&hide_border=true" width="100%"/>
 
@@ -172,11 +172,7 @@ Analyzed e-commerce sales and customer behavior data with Python and SQL, visual
 
 ### 💬
 
-*"Turning data into insights, and ideas into interfaces."*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=mahalakshmi-dev06&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=mahalakshmi-dev06&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
