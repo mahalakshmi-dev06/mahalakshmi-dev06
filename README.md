@@ -139,7 +139,7 @@ Analyzed e-commerce sales and customer behavior data with Python and SQL, visual
 >
 > 📜 NPTEL Certification — Introduction to Industry 4.0 and Industrial IoT (67%)
 >
-> 🎓 *Currently Attending* — Data Analytics Masterclass, Novitech
+> 🎓 Data Analytics Masterclass — Novitech
 
 ---
 
