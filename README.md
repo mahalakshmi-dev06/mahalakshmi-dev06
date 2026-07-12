@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mahalakshmi%20D&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:3B82F6&height=220&section=header&text=Mahalakshmi%20D&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2600&pause=500&color=2DD4BF&center=true&vCenter=true&width=650&height=40&lines=Data+Analyst;Frontend+Developer;Software+Developer;Aspiring+Insights+%2B+Interfaces+Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2600&pause=500&color=3B82F6&center=true&vCenter=true&width=650&height=40&lines=Turning+Data+Into+Insights;Data+Analyst;Frontend+Developer;Software+Developer" />
 
 <br/>
 
@@ -180,6 +180,6 @@ Analyzed e-commerce sales and customer behavior data with Python and SQL, visual
 
 [⬆ Back to Top](#)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E40AF,100:0F172A&height=120&section=footer"/>
 
 </div>
