@@ -1,139 +1,73 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:0F172A,100:0F172A&height=180&section=header&text=MAHALAKSHMI%20D&fontSize=48&fontColor=F59E0B&fontAlignY=45&animation=fadeIn"/>
+# 👋 MAHALAKSHMI D
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=560&lines=Data+Analyst;Frontend+Developer;Software+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=560&lines=Data+Analyst;Frontend+Developer;Software+Developer" />
 
-<a href="https://mahalakshmi-dev06.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-F59E0B?style=for-the-badge&logoColor=black"/></a>
-<a href="https://www.linkedin.com/in/mahalakshmi-dhanraj-428174293"><img src="https://img.shields.io/badge/LINKEDIN-1E293B?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"/></a>
-<a href="mailto:mahadhana2006@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1E293B?style=for-the-badge&logo=gmail&logoColor=F59E0B"/></a>
+🟢 Open to Data Analytics & Software Internships &nbsp;•&nbsp; 📍 Salem, Tamil Nadu
 
 </div>
 
 <br/>
 
-<table width="100%" style="border:none">
-<tr>
-<td width="100%">
-
-<div align="center">
-
-## ABOUT ME
-
-</div>
-
-<div align="center">
-
-I'm **Mahalakshmi D**, a final-year **Electrical & Electronics Engineering** student at Knowledge Institute of Technology, specializing in **Data Analytics** and **Frontend Development**. I enjoy working with data to find patterns, and building interfaces that make information easy to understand.
-
-🟢 **Open to Data Analytics & Software Internships**
-
-</div>
-
-</td>
-</tr>
-</table>
+> *"Turning data into insights, and ideas into interfaces."*
 
 <br/>
 
-<div align="center">
+## 🧭 The Story So Far
 
-## SKILLS
-
-<table>
-<tr>
-<td align="center" width="140"><img src="https://skillicons.dev/icons?i=python" width="45"/><br/><sub><b>Python</b></sub></td>
-<td align="center" width="140"><img src="https://skillicons.dev/icons?i=java" width="45"/><br/><sub><b>Java</b></sub></td>
-<td align="center" width="140"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br/><sub><b>SQL</b></sub></td>
-<td align="center" width="140"><img src="https://skillicons.dev/icons?i=react" width="45"/><br/><sub><b>React</b></sub></td>
-<td align="center" width="140"><img src="https://skillicons.dev/icons?i=js" width="45"/><br/><sub><b>JavaScript</b></sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/><sub><b>Node.js</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br/><sub><b>MongoDB</b></sub></td>
-<td align="center"><img src="https://img.icons8.com/color/48/power-bi.png" width="45"/><br/><sub><b>Power BI</b></sub></td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="45"/><br/><sub><b>Pandas</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br/><sub><b>Git</b></sub></td>
-</tr>
-</table>
-
-</div>
+Final-year **B.E. Electrical & Electronics Engineering** student at Knowledge Institute of Technology (CGPA **8.33**), who found a love for **Data Analytics** and **Frontend Development** somewhere along the way. I like working with numbers until they make sense, and building interfaces until they feel simple.
 
 <br/>
 
-<div align="center">
+## ⚡ What I Work With
 
-## PORTFOLIO
+`Python` &nbsp;·&nbsp; `Java` &nbsp;·&nbsp; `SQL` &nbsp;·&nbsp; `Power BI` &nbsp;·&nbsp; `Pandas` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `MongoDB` &nbsp;·&nbsp; `Git`
 
-<table>
-<tr>
-<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=python,java,mysql,react,js,nodejs,mongodb,git&theme=dark" />
+
+<br/>
+
+## 🚀 Things I've Built
 
 **🤟 Sign Echo**
-<sub>Sign language → text/audio<br/>~90% accuracy</sub>
+Real-time sign language recognition converting gestures into text and audio — ~90% accuracy using Python, OpenCV & MediaPipe.
 
-</td>
-<td align="center" width="25%">
-
-**⌚ Blood Blockage Detector**
-<sub>Wearable IoT safety device<br/>Real-time alerts</sub>
-
-</td>
-<td align="center" width="25%">
+**⌚ Wearable Blood Blockage Detection**
+An IoT-based wearable device monitoring vitals in real time, with instant buzzer and SMS alerts on anomalies.
 
 **🤖 Obstacle Avoiding Robot**
-<sub>Sensor-based autonomous bot<br/>Top Performer award</sub>
+An autonomous sensor-driven robot that navigates around obstacles — recognized as Top Performer at IDEA Lab, KIOT.
 
-</td>
-<td align="center" width="25%">
+**📊 E-commerce Customer Insights**
+Analyzed real e-commerce sales data with Python & SQL to uncover customer behavior and revenue trends.
 
-**📊 E-commerce Insights**
-<sub>Customer & sales analysis<br/>Python + SQL</sub>
-
-</td>
-</tr>
-</table>
-
-<a href="https://mahalakshmi-dev06.github.io/portfolio/"><img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS→-1E293B?style=for-the-badge&color=1E293B&logoColor=F59E0B"/></a>
-
-</div>
+→ [See all projects on my portfolio](https://mahalakshmi-dev06.github.io/portfolio/)
 
 <br/>
 
-<div align="center">
+## 🏆 Along the Way
 
-## ACHIEVEMENTS
-
-<table>
-<tr>
-<td align="center" width="33%">🥇<br/><b>First Place</b><br/><sub>Paper Presentation<br/>Sona College of Technology</sub></td>
-<td align="center" width="33%">🏅<br/><b>Top Performer</b><br/><sub>Obstacle Avoiding Robot<br/>IDEA Lab, KIOT</sub></td>
-<td align="center" width="33%">🥉<br/><b>Third Place</b><br/><sub>24-Hr Women's Hackathon<br/>Wireless EV Power Transmission</sub></td>
-</tr>
-</table>
-
-</div>
+🥇 **First Place** — Paper Presentation, Piezoelectric Effect · Sona College of Technology
+🏅 **Top Performer** — Obstacle Avoiding Robot · IDEA Lab, KIOT
+🥉 **Third Place** — 24-Hr Women's Hackathon · Wireless EV Power Transmission
 
 <br/>
 
-<div align="center">
+## 📊 On GitHub
 
-## CONTACT ME
-
-<table>
-<tr>
-<td align="center" width="33%">📧<br/><a href="mailto:mahadhana2006@gmail.com">mahadhana2006@gmail.com</a></td>
-<td align="center" width="33%">📍<br/>Salem, Tamil Nadu, India</td>
-<td align="center" width="33%">🎓<br/>B.E. EEE · CGPA 8.33</td>
-</tr>
-</table>
-
-<a href="https://mahalakshmi-dev06.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-F59E0B?style=for-the-badge&logoColor=black"/></a>
-<a href="https://www.linkedin.com/in/mahalakshmi-dhanraj-428174293"><img src="https://img.shields.io/badge/LINKEDIN-1E293B?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"/></a>
-<a href="https://github.com/mahalakshmi-dev06"><img src="https://img.shields.io/badge/GITHUB-1E293B?style=for-the-badge&logo=github&logoColor=F59E0B"/></a>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=mahalakshmi-dev06&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=2DD4BF&icon_color=F59E0B&text_color=E2E8F0" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi-dev06&theme=dark&hide_border=true&background=00000000&stroke=2DD4BF&ring=F59E0B&fire=F59E0B" height="165"/>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:0F172A,100:0F172A&height=80&section=footer"/>
+## 📬 Let's Connect
+
+<a href="https://mahalakshmi-dev06.github.io/portfolio/">Portfolio</a> &nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/mahalakshmi-dhanraj-428174293">LinkedIn</a> &nbsp;•&nbsp;
+<a href="mailto:mahadhana2006@gmail.com">Email</a> &nbsp;•&nbsp;
+<a href="https://github.com/mahalakshmi-dev06">GitHub</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mahalakshmi-dev06&style=flat-square&color=2DD4BF&label=Profile+Views" />
