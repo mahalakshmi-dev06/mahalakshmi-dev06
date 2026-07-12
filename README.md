@@ -1,128 +1,157 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1224,50:2DD4BF,100:F59E0B&height=200&section=header&text=&fontSize=0" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Hello%20World!&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=I'm%20Mahalakshmi%20D&descAlignY=52&descSize=24&descColor=00E5A8"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=32&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Mahalakshmi+D;Aspiring+Data+Analyst;Frontend+Developer;Turning+Data+Into+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2600&pause=700&color=00C2FF&center=true&vCenter=true&width=650&lines=Data+Analyst;Frontend+Developer;Software+Developer;Aspiring+Insights+%2B+Interfaces+Builder" />
 
-<p>
-  <img src="https://img.shields.io/badge/📍-Salem,_Tamil_Nadu-2DD4BF?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓-B.E._EEE,_2023--2027-F59E0B?style=flat-square" />
-  <img src="https://img.shields.io/badge/CGPA-8.33-9333EA?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Internships-22C55E?style=flat-square" />
-</p>
+<br/>
+
+<a href="https://mahalakshmi-dev06.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mahalakshmi-dhanraj-428174293"><img src="https://img.shields.io/badge/LinkedIn-5B8DEF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mahadhana2006@gmail.com"><img src="https://img.shields.io/badge/Email-FF5EA8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/mahalakshmi-dev06"><img src="https://img.shields.io/badge/GitHub-00C2FF?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 </div>
 
 <br/>
 
-## &nbsp;🧭&nbsp; About Me
+<!-- ============ ABOUT — avatar + free-flowing text ============ -->
+<img align="left" width="150" src="https://api.dicebear.com/7.x/initials/svg?seed=Mahalakshmi%20D&backgroundColor=7F5AF0,5B8DEF,00C2FF&backgroundType=gradientLinear" style="border-radius:50%"/>
 
-<table>
-<tr>
-<td width="65%" valign="top">
+### 🌌 About Me
 
-I'm a final-year **Electrical & Electronics Engineering** student at Knowledge Institute of Technology, with a growing focus on **Data Analytics** and **Frontend Development**. I enjoy working where data meets design — building interfaces that make information easy to understand and act on.
+Final-year **B.E. Electrical & Electronics Engineering** student (CGPA **8.33**) at Knowledge Institute of Technology, currently focused on **Data Analytics** and **Frontend Development**. I like sitting at the point where numbers turn into decisions and code turns into something people can actually use.
 
-&nbsp;
+🔭 Building data-driven projects & polishing my portfolio &nbsp;·&nbsp; 🌱 Learning SQL, Power BI & data viz &nbsp;·&nbsp; 🟢 Open to Data Analytics & Software internships &nbsp;·&nbsp; 📍 Salem, Tamil Nadu
 
-🔭&nbsp; Currently building an **e-commerce customer insights** dashboard (RFM analysis)
-🌱&nbsp; Learning advanced **SQL** and **Power BI** data modeling
-💬&nbsp; Ask me about **Python, sign-language recognition, or React**
-📫&nbsp; Reach me at **mahadhana2006@gmail.com**
+<br clear="left"/>
 
-</td>
-<td width="35%" align="center">
+---
 
-<img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" width="180"/>
+<!-- ============ SKILLS — icon grid, no badges ============ -->
+<div align="center">
 
-</td>
-</tr>
-</table>
+### ⚡ Skills
 
+<img src="https://skillicons.dev/icons?i=py,java,mysql,react,nodejs,express,mongodb,tailwind,html,css,js,git,github,vscode&theme=dark" />
+
+<sub>Plus: Power BI · Pandas · NumPy · Matplotlib · Microsoft Excel</sub>
+
+</div>
+
+---
+
+<!-- ============ PROJECTS — collapsible accordions ============ -->
+### 💼 Project Showcase
+
+<details>
+<summary><b>🤟 Sign Echo</b> — Real-time sign language recognition</summary>
 <br/>
 
-## &nbsp;🛠️&nbsp; Tech Stack
+Converts sign language alphabets into text and audio output with ~90% accuracy, using real-time hand-landmark detection.
+
+`Python` `OpenCV` `MediaPipe`
+
+[→ View on GitHub](https://github.com/mahalakshmi-dev06)
+</details>
+
+<details>
+<summary><b>⌚ Wearable Blood Blockage Detection</b> — IoT safety device</summary>
+<br/>
+
+A compact wearable that monitors body temperature and heart rate to catch early signs of blood flow blockage, triggering SMS + buzzer alerts.
+
+`Arduino Nano` `Pulse Sensor`
+
+[→ View on GitHub](https://github.com/mahalakshmi-dev06)
+</details>
+
+<details>
+<summary><b>💊 Smart Medicine Reminder & Health Tracker</b> — Full-stack MERN app</summary>
+<br/>
+
+Reminds users to take medication on time, tracks health records, and supports both Tamil and English for accessibility.
+
+`React` `Node.js` `Express` `MongoDB`
+
+[→ View on GitHub](https://github.com/mahalakshmi-dev06)
+</details>
+
+<details>
+<summary><b>📊 E-commerce Customer Insights</b> — RFM analysis</summary>
+<br/>
+
+Analyzed e-commerce sales and customer behavior data with Python and SQL, visualizing trends to support segmentation decisions.
+
+`Python` `SQL` `Pandas` `Matplotlib`
+
+[→ View on GitHub](https://github.com/mahalakshmi-dev06)
+</details>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,mysql,react,nodejs,mongodb,git,github,vscode,html,css,js&theme=dark" />
+[**→ See all projects on my portfolio**](https://mahalakshmi-dev06.github.io/portfolio/)
+
+</div>
+
+---
+
+<!-- ============ TIMELINE — blockquote chronology ============ -->
+### 🕰️ Timeline
+
+> **2023 – 2027** — B.E. Electrical & Electronics Engineering, Knowledge Institute of Technology
+>
+> **2025** — 🥇 First Place, Paper Presentation on Piezoelectric Effect, Sona College of Technology
+>
+> **2025** — 🏅 Top Performer, Obstacle Avoiding Robot, IDEA Lab KIOT
+>
+> **2025** — 🥉 Third Place, 24-Hr Women's Hackathon, Wireless EV Power Transmission
+>
+> **2025** — 📜 NPTEL Certification, Introduction to Industry 4.0 and Industrial IoT (67%)
+
+---
+
+<!-- ============ GOALS — interactive checklist ============ -->
+### 🎯 Current Goals
+
+- [x] Master SQL & Power BI for Data Analytics
+- [x] Build a full personal portfolio site
+- [ ] Strengthen React & frontend project depth
+- [ ] Build a stronger open-source presence
+- [ ] Land a Data Analyst internship
+
+---
+
+<!-- ============ GITHUB STATS — dashboard style ============ -->
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahalakshmi-dev06&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=FF5EA8&text_color=E2E8F0" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi-dev06&theme=react&hide_border=true&background=0D1117&stroke=7F5AF0&ring=00C2FF&fire=FF5EA8&currStreakLabel=00E5A8" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahalakshmi-dev06&bg_color=0D1117&color=00C2FF&line=FF5EA8&point=ffffff&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬
+
+*"Turning data into insights, and ideas into interfaces."*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=mahalakshmi-dev06&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+**Thanks for visiting my profile 💜**
+
+[⬆ Back to Top](#)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
-
-<br/>
-
-## &nbsp;📌&nbsp; Featured Projects
-
-<table>
-<tr>
-<th align="left">Project</th>
-<th align="left">Stack</th>
-<th align="left">Highlight</th>
-</tr>
-<tr>
-<td>🤟 <b>Sign Echo</b></td>
-<td>Python · OpenCV · MediaPipe</td>
-<td>Real-time sign language → text/audio, ~90% accuracy</td>
-</tr>
-<tr>
-<td>⌚ <b>Wearable Blood Blockage Detection</b></td>
-<td>Arduino Nano · Pulse Sensor</td>
-<td>Early anomaly detection with SMS + buzzer alerts</td>
-</tr>
-<tr>
-<td>💊 <b>Smart Medicine Reminder & Health Tracker</b></td>
-<td>React · Node.js · Express · MongoDB</td>
-<td>Bilingual (Tamil/English) full-stack health app</td>
-</tr>
-<tr>
-<td>📊 <b>E-commerce Customer Insights</b></td>
-<td>Python · SQL · Power BI</td>
-<td>RFM analysis for customer segmentation</td>
-</tr>
-</table>
-
-<br/>
-
-## &nbsp;🏆&nbsp; Achievements
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🥇_First_Place-Paper_Presentation,_Piezoelectric_Effect-F59E0B?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/🏅_Top_Performer-Obstacle_Avoiding_Robot,_IDEA_Lab-2DD4BF?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/🥉_Third_Place-24--Hr_Women's_Hackathon-9333EA?style=flat-square" />
-
-</div>
-
-<br/>
-
-## &nbsp;📊&nbsp; GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mahalakshmi-dev06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi-dev06&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
-<br/>
-
-## &nbsp;🔗&nbsp; Connect With Me
-
-<div align="center">
-
-<a href="https://mahalakshmi-dev06.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mahalakshmi-dhanraj-428174293" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mahadhana2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/mahalakshmi-dev06" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:2DD4BF&height=120&section=footer" width="100%"/>
