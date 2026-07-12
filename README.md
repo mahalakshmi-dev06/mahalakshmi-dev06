@@ -1,114 +1,129 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0D9488,100:F59E0B&height=250&section=header&text=MAHALAKSHMI%20D&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20•%20Frontend%20Developer%20•%20Software%20Developer&descAlignY=55&descSize=20&descColor=E2E8F0"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=600&color=F59E0B&background=0F172A00&center=true&vCenter=true&width=600&height=40&lines=%24+whoami" />
+
+# Mahalakshmi D
+### `Data Analyst` &nbsp;·&nbsp; `Frontend Developer` &nbsp;·&nbsp; `Software Developer`
+
+<img src="https://img.shields.io/badge/status-open_to_internships-22c55e?style=flat-square&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/location-Salem,_India-2DD4BF?style=flat-square&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/CGPA-8.33-F59E0B?style=flat-square&labelColor=0f172a" />
+
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=650&lines=Turning+data+into+insights...;Turning+ideas+into+interfaces...;Aspiring+Data+Analyst+%F0%9F%93%8A;React+%7C+Python+%7C+SQL+%7C+Power+BI" />
+```
+┌──────────────────────────────────────────────────────────┐
+│  ~/mahalakshmi  $  cat about.txt                          │
+├──────────────────────────────────────────────────────────┤
+│  Final-year EEE student, self-taught in Data Analytics   │
+│  and Frontend Development. I like turning messy data     │
+│  into clear insights, and rough ideas into clean UIs.     │
+│                                                            │
+│  "Circuits by degree, code and data by choice."           │
+└──────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📡 Currently
+
+```yaml
+role:      Aspiring Data Analyst
+building:  Portfolio & Data projects
+learning:  SQL, Power BI, Advanced Analytics
+open_to:   Internships, Collaboration
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 Find me at
+
+<a href="https://mahalakshmi-dev06.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-0D9488?style=flat-square&logo=vercel&logoColor=white"/></a><br/>
+<a href="https://www.linkedin.com/in/mahalakshmi-dhanraj-428174293"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a><br/>
+<a href="mailto:mahadhana2006@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a><br/>
+<a href="https://github.com/mahalakshmi-dev06"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ⚙️ Stack
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,react,js,nodejs,mongodb,git,figma&theme=dark&perline=9" />
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
 
 <br/><br/>
 
-<a href="https://mahalakshmi-dev06.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-0D9488?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mahalakshmi-dhanraj-428174293" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mahadhana2006@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### 📂 Pinned Work
 
-</div>
+<table>
+<tr>
+<td width="50%">
 
-<br/>
+**🤟 Sign Echo**
+Real-time sign language → text/audio (~90% accuracy)
+`Python` `OpenCV` `MediaPipe`
 
-## 🧭 About Me
+</td>
+<td width="50%">
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+**⌚ Blood Blockage Detector**
+Wearable IoT safety device, real-time alerts
+`Arduino Nano` `Pulse Sensor`
 
-- 🎓 B.E. **Electrical and Electronics Engineering**, Knowledge Institute of Technology, Salem
-- 📊 CGPA: **8.33** &nbsp;•&nbsp; Graduating: **2027**
-- 🟢 **Open to Data Analytics & Software Internships**
-- 🔭 Currently building projects in **Data Analytics** & **Frontend Development**
-- 🌱 Leveling up: SQL, Power BI, Advanced Data Visualization
-- 📍 Salem, Tamil Nadu, India
-- 💬 *"Turning data into insights, and ideas into interfaces."*
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<br clear="right"/>
+**🤖 Obstacle Avoiding Robot**
+Sensor-based autonomous navigation
+`Arduino` `Sensors`
 
----
+</td>
+<td width="50%">
 
-## 🛠️ Tech Arsenal
+**📊 E-commerce Customer Insights**
+Sales & behavior trend analysis
+`Python` `SQL` `Pandas`
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql,react,js,nodejs,mongodb,git,vscode,figma&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---|---|---|
-| 🤟 **[Sign Echo](https://github.com/mahalakshmi-dev06/Sign-Echo)** | Real-time sign language recognition (~90% accuracy) | `Python` `OpenCV` `MediaPipe` |
-| ⌚ **[Wearable Blood Blockage Detection](https://github.com/mahalakshmi-dev06)** | IoT wearable safety device with real-time alerts | `Arduino Nano` `Pulse Sensor` |
-| 🤖 **[Obstacle Avoiding Robot](https://github.com/mahalakshmi-dev06)** | Sensor-based autonomous obstacle avoidance | `Arduino` `Sensors` |
-| 📊 **E-commerce Customer Insights** | Sales & customer behavior analysis with visualizations | `Python` `SQL` `Pandas` |
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-🥇 **First Place** — Paper Presentation, Piezoelectric Effect &nbsp;·&nbsp; Sona College of Technology
-<br/>
-🏅 **Top Performer** — Obstacle Avoiding Robot &nbsp;·&nbsp; IDEA Lab, KIOT
-<br/>
-🥉 **Third Place** — 24-Hr Women's Hackathon &nbsp;·&nbsp; Wireless Power Transmission for EV
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mahalakshmi-dev06&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmi-dev06&layout=compact&theme=synthwave&hide_border=true" width="35%" />
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi-dev06&theme=synthwave&hide_border=true" width="70%" />
+### 🏆 Milestones
 
-<br/><br/>
+```
+[ 2025 ] 🥇 First Place  — Paper Presentation, Piezoelectric Effect
+[ 2025 ] 🏅 Top Performer — Obstacle Avoiding Robot, IDEA Lab
+[ 2025 ] 🥉 Third Place  — 24-Hr Women's Hackathon (EV Power Transmission)
+```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahalakshmi-dev06&theme=synthwave&hide_border=true" width="100%" />
-
-</div>
-
----
+<br/>
 
 <div align="center">
 
-### 💫 Thanks for stopping by!
+### 📈 Activity
 
-<img src="https://komarev.com/ghpvc/?username=mahalakshmi-dev06&style=for-the-badge&color=0D9488&label=PROFILE+VIEWS" />
+<img src="https://github-readme-stats.vercel.app/api?username=mahalakshmi-dev06&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=2DD4BF&icon_color=F59E0B&text_color=E2E8F0" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi-dev06&theme=dark&hide_border=true&background=0F172A&stroke=2DD4BF&ring=F59E0B&fire=F59E0B&currStreakLabel=2DD4BF" width="48%"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:0D9488,100:0F172A&height=120&section=footer"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahalakshmi-dev06&bg_color=0F172A&color=2DD4BF&line=F59E0B&point=E2E8F0&hide_border=true" width="100%"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/thanks_for_visiting-👋-0D9488?style=flat-square&labelColor=0f172a" />
 
 </div>
